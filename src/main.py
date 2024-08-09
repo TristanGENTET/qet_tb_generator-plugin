@@ -82,7 +82,7 @@
 #   y: es un número direfente para el mismo bornero que se he troceado para que
 #      quepa en una página.
 
-
+#modifications de Tristan
 
 ## Imports
 import logging as log
